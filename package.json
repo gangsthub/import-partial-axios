@@ -9,7 +9,7 @@
     "prod": "cross-env NODE_ENV=production parcel build index.html"
   },
   "dependencies": {
-    "axios": "0.19.0",
+    "axios": "1.6.0",
     "cross-env": "5.2.0",
     "parcel-plugin-bundle-visualiser": "1.2.0"
   },
